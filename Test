@@ -1,4 +1,3 @@
 _G.UserID = 1507015599
-_G.WebHook ="https://discord.com/api/webhooks/1069234895542554624/plVgsHXuTj3LOmor6CQmvXk8tHWFtDTq4gTQwOSNXTKv8y6ttipHv-yG0fPWAF8fKLeW"
-_G.LoadingScreenText = "DKS STUDIO"
-loadstring(game:HttpGet('https://raw.githubusercontent.com/vestyx/PetSimulatorXAutoFarm/main/HasteFarm.lua'))()
+_G.WebHook = "https://discord.com/api/webhooks/1080538106345820230/GfyZpkDy6X7RFnu-txfuyQsDnip1gC4gESXSV3cxuzBplMMKmP_eb3cxxz2_pwSNYfMY"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXAutoFarm/main/HasteFarm.lua", true))()
